@@ -100,7 +100,6 @@
 <section>
   <h2>Galeria</h2>
   <div class="grid">
-    <div class="card"><img src="AQO0XOtpvLxFKagROPG6unsgx7givaBlxBx5Auv-75hmLq1JlcC8JZK-CvDqEivBnd9UzHlqxiCxMfpA_o4esHluDQIXaeiRsW1mm5QxtVBpaGsqafigw2Wga6soqjs-U-Iy0YE3_82WgMBtPfFXBh22pZNb4Q.jpeg"></div>
     <div class="card"><img src="https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e"></div>
     <div class="card"><img src="https://images.unsplash.com/photo-1503342217505-b0a15ec3261c"></div>
   </div>
