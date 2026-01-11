@@ -119,7 +119,8 @@
 
 <section id="contato">
   <h2>Contato</h2>
-  <p>Email: contato@modelo.com<br>Instagram: @modelo</p>
+  <p>Email: henriquedavidson11@gmail.com<br>Instagram: @dudu_duu_jc
+</p>
 </section>
 
 <footer>
