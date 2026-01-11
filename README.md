@@ -25,7 +25,7 @@
       min-height: 100vh;
     }
     .hero-image {
-      background: url("AQO0XOtpvLxFKagROPG6unsgx7givaBlxBx5Auv-75hmLq1JlcC8JZK-CvDqEivBnd9UzHlqxiCxMfpA_o4esHluDQIXaeiRsW1mm5QxtVBpaGsqafigw2Wga6soqjs-U-Iy0YE3_82WgMBtPfFXBh22pZNb4Q.jpeg") center/cover no-repeat;
+      background: <div class="card"><img src="Fotos/modelo_feminina_baixinha_cabelos_cacheados_pretos_com.jpeg"></div>center/cover no-repeat;
     }
     .hero-content {
       padding: 5rem;
