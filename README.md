@@ -100,10 +100,10 @@
 <section>
   <h2>Galeria</h2>
   <div class="grid">
-    <div class="card"><img src="AQO0XOtpvLxFKagROPG6unsgx7givaBlxBx5Auv-75hmLq1JlcC8JZK-CvDqEivBnd9UzHlqxiCxMfpA_o4esHluDQIXaeiRsW1mm5QxtVBpaGsqafigw2Wga6soqjs-U-Iy0YE3_82WgMBtPfFXBh22pZNb4Q.jpeg"></div>
-    <div class="card"><img src="modelo_feminina_baixinha_cabelos_cacheados_pretos_com.jpeg"></div>
-    <div class="card"><img src="modelo_feminina_baixinha_cabelos_cacheados_pretos_com.jpeg"></div>
-     <div class="card"><img src="AQO0XOtpvLxFKagROPG6unsgx7givaBlxBx5Auv-75hmLq1JlcC8JZK-CvDqEivBnd9UzHlqxiCxMfpA_o4esHluDQIXaeiRsW1mm5QxtVBpaGsqafigw2Wga6soqjs-U-Iy0YE3_82WgMBtPfFXBh22pZNb4Q.jpeg"></div>
+    <div class="card"><img src="Fotos/AQO0XOtpvLxFKagROPG6unsgx7givaBlxBx5Auv-75hmLq1JlcC8JZK-CvDqEivBnd9UzHlqxiCxMfpA_o4esHluDQIXaeiRsW1mm5QxtVBpaGsqafigw2Wga6soqjs-U-Iy0YE3_82WgMBtPfFXBh22pZNb4Q.jpeg"></div>
+    <div class="card"><img src="Fotos/modelo_feminina_baixinha_cabelos_cacheados_pretos_com.jpeg"></div>
+    <div class="card"><img src="Fotos/AQO0XOtpvLxFKagROPG6unsgx7givaBlxBx5Auv-75hmLq1JlcC8JZK-CvDqEivBnd9UzHlqxiCxMfpA_o4esHluDQIXaeiRsW1mm5QxtVBpaGsqafigw2Wga6soqjs-U-Iy0YE3_82WgMBtPfFXBh22pZNb4Q.jpeg"></div>
+     <div class="card"><img src="Fotos/modelo_feminina_baixinha_cabelos_cacheados_pretos_com.jpeg"></div>
   </div>
 </section>
 
